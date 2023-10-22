@@ -1,0 +1,62 @@
+
+#ip-info {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+#user-info {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f7f7f7;
+}
+
+
+#google-maps {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f7f7f7;
+    height: 300px; 
+}
+
+
+.post-office-card {
+    background-color: #f7f7f7;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+#search-post-office {
+    margin: 10px;
+    padding: 5px;
+}
+
+
+.post-office-card h3 {
+    color: #3498db;
+    font-size: 18px;
+}
+
+
+.post-office-card:hover {
+    background-color: #3498db;
+    color: #fff;
+}
+
+
+#search-post-office {
+    padding: 5px;
+    border: 1px solid #ccc;
+}
+
+
+#search-post-office::placeholder {
+    color: #777;
+}
